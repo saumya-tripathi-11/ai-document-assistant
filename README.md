@@ -356,9 +356,3 @@ This is currently a solo learning project, but issues, suggestions, and pull req
 This project is licensed under the [MIT License](LICENSE) — free to use, modify, and learn from.
 
 ---
-
-<div align="center">
-
-Built by [Ayush Baware](https://github.com/AyushBaware) as a hands-on project to learn production-grade RAG architecture, from an MCA student's perspective.
-
-</div>
